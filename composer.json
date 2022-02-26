@@ -18,7 +18,7 @@
         "monolog/monolog": "^2.3",
         "psy/psysh": "^0.10.8 || ^0.11.1",
         "spatie/browsershot": "^3.52",
-        "spatie/robots-txt": "^2.0",
+        "spatie/robots-txt": "^1.0.10",
         "symfony/console": "^5.3 || ^6.0",
         "symfony/css-selector": "^5.3 || ^6.0",
         "symfony/dom-crawler": "^5.3 || ^6.0",
